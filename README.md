@@ -4,7 +4,7 @@ Overview
 
 This project implements a Network Intrusion Detection System (IDS) using deep learning techniques on the UNSW-NB15 dataset. The notebook performs dataset downloading, preprocessing, training, and evaluation of a machine learning model for detecting malicious network traffic.
 
-The project is built and executed in �entity[“software”,“Google Colab”,“Google Colaboratory notebook platform”] using Python, TensorFlow, and common data science libraries.
+The project is built and executed in entity[“software”,“Google Colab”,“Google Colaboratory notebook platform”] using Python, TensorFlow, and common data science libraries.
 
 ⸻
 
@@ -25,7 +25,7 @@ This project uses the UNSW-NB15 intrusion detection dataset.
 
 Dataset source:
 
-* �urlUNSW-NB15 Dataset on Kagglehttps://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15
+urlUNSW-NB15 Dataset on Kagglehttps://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15
 
 ⸻
 
